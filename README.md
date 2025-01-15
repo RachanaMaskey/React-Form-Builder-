@@ -1,9 +1,7 @@
 <h1>Drag and Drop Kanban Board</h1>
 
-<h2>Setup Instructions</h2>
+<h2>For Setup</h2>
 
-- Clone the repository to your local machine:
-```
 git clone https://github.com/subin-shk/Vrit-Tech-Task-B.git
 ```
 
