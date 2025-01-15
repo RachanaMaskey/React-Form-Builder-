@@ -1,15 +1,9 @@
 <h2>Git link for setup</h2>
 
 git clone https://github.com/subin-shk/Vrit-Tech-Task-B.git
-```
 
-- install node modules and dependencies by running the following command:
-```
 npm install
-```
 
-- run using:
-```
 npm run dev
 
 
