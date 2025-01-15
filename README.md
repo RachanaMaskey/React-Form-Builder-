@@ -34,6 +34,6 @@ npm run dev
 - Add undo/redo functionality
 
 <h2>Link of demo video</h2>
-https://drive.google.com/file/d/1TOovE0Bv2pm7aEuhhuYRLpXMH7X0awa_/view?usp=drive_link
+https://drive.google.com/file/d/1TOovE0Bv2pm7aEuhhuYRLpXMH7X0awa_/view?usp=sharing
 
 
