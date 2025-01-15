@@ -11,7 +11,7 @@ npm install
 - run using:
 ```
 npm run dev
-```
+
 
 <h2>Technologies Used</h2>
 
