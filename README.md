@@ -1,6 +1,6 @@
 <h2>Git link for setup</h2>
 
-git clone https://github.com/subin-shk/Vrit-Tech-Task-B.git
+git clone https://github.com/RachanaMaskey/React-Form-Builder-.git
 
 npm install
 
@@ -33,7 +33,6 @@ npm run dev
 - Implement card search and filtering
 - Add undo/redo functionality
 
-<h2>Link of demo video</h2>
-https://drive.google.com/file/d/1TOovE0Bv2pm7aEuhhuYRLpXMH7X0awa_/view?usp=sharing
+
 
 
