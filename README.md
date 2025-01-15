@@ -23,7 +23,9 @@ npm run dev
 
 <h2>Known limitations</h2>
 
-- Cannot edit name or title of existing columns.
+- Unit Test
+  
+- Integration Test
 
 <h2>Future Improvements</h2>
 
@@ -31,6 +33,7 @@ npm run dev
 - Implement card search and filtering
 - Add undo/redo functionality
 
-
+<h2>Link of demo video</h2>
+https://drive.google.com/file/d/1TOovE0Bv2pm7aEuhhuYRLpXMH7X0awa_/view?usp=drive_link
 
 
